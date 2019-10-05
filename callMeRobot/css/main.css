@@ -1,0 +1,18 @@
+body{
+    background-color: #eee;
+}
+
+.special {
+    color: red;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+    background-color: beige;
+    margin: 20px auto;
+}
+
+.d-block {
+    display: inline-block!important;
+}
